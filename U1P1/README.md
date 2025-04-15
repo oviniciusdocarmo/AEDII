@@ -59,6 +59,11 @@ O projeto tem como objetivo aplicar **conceitos de grafos** por meio da bibliote
 
 ---
 
+## **🎥 Vídeo Explicativo**
+- [Link](https://drive.google.com/file/d/1K6N52NYqHff2ugXrDKCOe0O_3MEJstzH/view?usp=sharing)
+
+---
+
 ## **📌 Referências**  
 
 - **Livro Completo**: [Coscia, Michele. The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)  
