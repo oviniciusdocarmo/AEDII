@@ -95,3 +95,8 @@ O presente estudo foi desenvolvido com o objetivo de comparar três algoritmos d
 - Considerar pesos baseados em tempo (e não apenas distância).
 - Incorporar dados em tempo real de trânsito.
 - Avaliar impacto da escala (número de origens e destinos) no consumo.
+
+
+---
+📹 **Link para o vídeo de apresentação**: [Vídeo](https://youtu.be/V2bBloL8LUY)
+
