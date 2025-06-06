@@ -1,0 +1,4 @@
+Algoritmo,TempoTotal(s),DistanciaTotal(km),CO2(kg)
+Tradicional,2172.67,433.66,0.023042
+MinHeap,12.22,433.66,0.000134
+A*,1.19,433.66,0.0
