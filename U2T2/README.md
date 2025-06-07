@@ -161,4 +161,7 @@
 
 ![Gráfico comparativo entre algoritmos](imagens/grafico_comparativo.png)
 
+---
+
+📹 **Link para o vídeo de apresentação**: [Vídeo](https://youtu.be/qK-pzgyDD7U)
 
