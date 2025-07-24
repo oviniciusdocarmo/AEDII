@@ -89,3 +89,5 @@ Neste requisito, a rede foi analisada com foco na detecção de comunidades (clu
 Essa abordagem proporciona uma visualização intuitiva, permitindo identificar rapidamente as comunidades, os nós mais influentes e as conexões-chave dentro da rede.
 
 - **Projeto Final Network:** [https://oviniciusdocarmo.github.io/AEDII/PROJETOFINAL/network/](https://oviniciusdocarmo.github.io/AEDII/PROJETOFINAL/network/)
+
+- **Apresentação:** [https://youtu.be/Xh0wWoSKuHY](https://youtu.be/Xh0wWoSKuHY)
